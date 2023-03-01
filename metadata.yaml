@@ -1,0 +1,5 @@
+homepage: "https://adbroad.fr"
+documentation: "https://adbroad.fr"
+versions:
+  - sha: 040138c2c4aede526b6c52657c746cfee8fe14c3
+    changeNotes: Initial release.
